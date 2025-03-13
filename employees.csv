@@ -1,0 +1,361 @@
+Employee_ID,Name,Age,Department,Work_Location
+5062,Nicole Salazar,22,Finance,Hybrid
+6413,Steve Ramirez,54,Marketing,Remote
+1817,Linda Ryan,44,,Onsite
+1715,Brian Taylor,26,Finance,Onsite
+7843,William Reynolds,47,HR,Remote
+4826,Melissa Brooks,34,Operations,Remote
+7299,Shaun Ramirez DDS,45,Marketing,Onsite
+9669,Rick Thompson,31,,Remote
+1881,Robert Allen,30,IT,Onsite
+8522,Russell Robertson,52,Operations,Remote
+3503,Heather Calderon,35,HR,Hybrid
+5118,Kristin Faulkner,38,Finance,Onsite
+4817,Jacob Schmidt,37,,Onsite
+6368,Danny Stein,51,IT,Onsit
+8599,Daniel Herman,27,Finance,
+1434,Christine Bradley,39,HR,Hybrid
+5422,,25,Finance,Onsite
+2379,Rachel Collier,26,Marketing,Hybrid
+9764,Charles Jones,33,IT,Remote
+1069,Richard Burton,52,Marketing,Remote
+2770,Rebecca Garcia,45,Operations,Onsit
+5777,Hector Hamilton,52,Marketing,Hybrid
+8128,Tasha Brewer,31,IT,Remote
+7170,Dorothy Montes,43,HR,Onsite
+2955,Jeffrey Parks,35,Operations,Hybrid
+6613,Kari Wood,26,Marketing,Remote
+4732,,39,Finance,Onsite
+5278,Monica Young,43,,Remote
+5152,Bryan Miller,52,Finance,Remote
+9100,Micheal Hayden,46,HR,Onsite
+4322,Scott Green,59,HR,
+1946,Kimberly Vega,29,Marketing,Remote
+5359,Justin Warren,26,Finance,Onsite
+6406,Todd Hodge,22,Marketing,Hybrid
+1016,Stephen Watson,48,IT,Onsite
+3819,Robert Barton,41,Operations,Remote
+6890,Patricia Gray,40,IT,Remote
+6698,Joseph English,27,HR,Hybrid
+4797,Lori Jones,58,Operations,Onsite
+8938,James Velez,30,,Onsite
+2995,Brittany Taylor,54,IT,Onsite
+1608,Megan Baker,37,Marketing,Remote
+4107,,60,Finance,Remote
+3953,Emily Bowen,23,Marketing,
+5091,Marissa Miller,55,HR,Onsite
+1990,,51,Operations,Hybrid
+6932,Daniel Gamble,54,IT,Remote
+6997,Joseph Brennan,60,Operations,Onsite
+4062,Melissa King,51,HR,Hybrid
+2101,Tracy Cantu,43,HR,Hybrid
+9213,Deborah Oliver,27,Marketing,Remote
+3858,Donna Hunt,22,Marketing,Onsite
+1042,Jason Yang,30,Finance,
+5759,Kristina Burns,51,HR,Onsite
+4890,Mrs. Dawn Smith,23,HR,Onsite
+2264,Sonya Bennett,57,Operations,Hybrid
+2482,Brian Reed,28,Finance,Remote
+1848,Kelly Brady,50,Finance,Hybrid
+4239,Hannah Williams,23,Finance,Onsite
+1972,,35,Marketing,Onsite
+8673,Colleen Johnson,36,HR,Remote
+9214,Stephanie Campbell,54,Finance,Hybrid
+4970,,58,Finance,Onsite
+5102,William Richardson,25,IT,Hybrid
+1561,Erica Ward,51,Operations,Remote
+7048,John Holmes,43,Marketing,Remote
+7028,Hannah Young,52,Operations,Onsite
+2084,Jennifer Casey,58,,Hybrid
+8696,Michelle Lee,59,IT,Remote
+6865,Juan Lawson,30,IT,Remote
+7264,Michelle Sparks,28,Finance,Hybrid
+5041,Alexander Young,33,HR,Remote
+7125,Joann Carr,27,Operations,Hybrid
+9305,James Brown,32,Finance,Hybrid
+7183,Stephanie Lynch,29,Marketing,Remote
+3481,Jessica Freeman,41,Marketing,Remote
+6096,Caleb Duncan,57,HR,Onsite
+5794,Jessica Myers,23,HR,
+1483,Morgan Hernandez,58,IT,Onsite
+5025,Dr. Lauren Smith MD,56,Operations,Hybrid
+1018,Lisa Perry,54,IT,Onsite
+9196,Lori Jones,29,IT,
+7987,Matthew Lynch,40,,Onsite
+1032,,57,HR,Onsite
+6134,,26,HR,Hybrid
+5452,Caleb Reyes,52,Operations,Remote
+1877,James Marshall,29,IT,Onsite
+4394,,47,,Onsite
+8228,Nicholas Massey,50,Operations,Remote
+4054,Joseph Perez,49,Marketing,Onsite
+5544,Gabrielle Rivera,33,Marketing,Remote
+2512,Heather Romero,25,IT,Onsite
+8503,Donald Clark,54,IT,Remote
+1674,Eric Holden,53,Marketing,Hybrid
+6884,Jordan Jones,38,,
+3927,Bryan Rios,34,Operations,Remote
+9411,Joanna Flores,34,Finance,Onsite
+2831,Bruce Newton,42,Finance,Hybrid
+9785,Joseph Henderson,46,Marketing,Hybrid
+3456,Marilyn Chapman,47,Finance,Hybrid
+5298,Jennifer Taylor,55,IT,Remote
+8151,Jason Jimenez,57,IT,
+9717,,46,IT,Onsite
+9223,Dr. Kimberly Pope,56,Marketing,Onsite
+7716,Philip Holloway,30,Finance,
+7066,Steven Cox,47,HR,Remote
+4423,Derek Ramsey,53,Marketing,Hybrid
+7641,Kayla Wagner,60,,Remote
+3759,Christopher Caldwell,38,Marketing,Hybrid
+2430,James Page,58,IT,Onsite
+7766,Lucas Baxter II,45,Operations,Hybrid
+1242,George Powell,54,Operations,Onsit
+5100,Cheryl Jones,58,Marketing,Hybrid
+9079,Tanya Francis,24,Finance,Onsite
+4815,,58,Operations,Remote
+5608,Kelly Brown,33,Finance,Hybrid
+5399,Chloe Powers,52,IT,
+6072,Sharon Copeland,56,Marketing,Remote
+2690,John Carr,27,Finance,Onsite
+2037,Christina Green,27,Operations,Hybrid
+7638,,30,Marketing,Hybrid
+2260,Emily Santana,55,Operations,Hybrid
+8428,Brian Wells,43,,Remote
+3432,Kathleen Parker,30,Marketing,Hybrid
+5855,Brian Parks,60,Marketing,Onsite
+1127,Joy Peterson,34,Operations,Remote
+3109,Nathaniel Larson,46,,Onsite
+6472,David Barnes,55,Marketing,Onsite
+3879,Mary Riley,35,IT,Onsite
+7729,Cody Campbell,41,Finance,Hybrid
+4013,Angela Reynolds,57,Marketing,Hybrid
+4790,Deborah Alexander,43,HR,Hybrid
+1371,Gary Porter,53,HR,Hybrid
+5939,Isaac Rush,42,Operations,Remote
+2643,Jeffrey Willis,56,,
+9393,Crystal Bryant,45,HR,Onsite
+1814,Sharon Mason,29,IT,Remote
+2848,Keith Wolf,27,IT,Hybrid
+2085,Jordan Thomas,56,HR,Onsite
+3161,Dana Roberts,41,Marketing,Remote
+5257,Caroline Adams,23,Operations,Onsite
+9939,,24,Marketing,Remote
+4466,Amy Roberts,59,Marketing,Hybrid
+5292,Justin Wright,23,IT,Onsite
+4939,Robert Gonzales,60,Operations,Onsite
+2893,Chelsea Reed,58,HR,Remote
+7124,Nicole Burgess,38,IT,Remote
+8453,Nicholas Bauer,48,Operations,Onsite
+4635,Diana Mccoy,34,Marketing,Onsite
+9150,Michael Campbell,37,HR,Hybrid
+3843,Angela Jones,53,Operations,Hybrid
+5809,Amy Jackson,26,HR,Onsit
+7751,Diana Rosario,24,HR,Onsite
+7538,Kimberly Franklin,37,IT,Onsite
+4687,Margaret Roach,50,Operations,Hybrid
+3446,Craig Woods,26,Marketing,Hybrid
+2283,Bruce Hernandez,55,Marketing,Remote
+3592,Troy Bennett,41,IT,Onsit
+8549,Trevor Castillo,59,Finance,Remote
+4413,Casey Navarro,41,Operations,Hybrid
+3610,Nicole Terry,26,Operations,
+9526,Thomas Luna,26,Operations,Remote
+4763,Frederick Keller,28,HR,Onsite
+2533,Dustin Rasmussen,36,IT,Remote
+2727,Crystal Ramirez,34,Marketing,
+7645,,46,Marketing,Onsite
+8241,,55,HR,Onsite
+6562,Laura Madden,45,HR,Remote
+3941,Daniel Wilson,53,Finance,Onsite
+4810,Kim Palmer,28,Finance,Onsite
+4400,Tiffany Doyle,29,Finance,Hybrid
+6568,Tyler Shaffer,30,IT,Onsit
+3365,Cheryl Norris,31,Finance,Remote
+6481,,39,,Onsite
+3867,Dr. Leon Molina,39,Operations,Hybrid
+2734,Joseph Swanson,60,Operations,Hybrid
+3532,David Kidd,59,IT,
+8709,Jennifer Stewart,52,IT,Hybrid
+7431,Robert Turner,53,Operations,Onsit
+4947,Daniel Walters,26,Finance,Hybrid
+2131,Mckenzie Brooks,45,Finance,Remote
+8629,Andrew Barry,27,HR,Remote
+9904,Elizabeth Barnes,33,IT,Onsite
+7308,Patricia Smith,55,Marketing,Hybrid
+6114,Jessica Bradley,24,Marketing,Remote
+3811,Ryan Wolf,35,Finance,Onsite
+1758,Mercedes Santos,30,IT,Onsite
+7089,,35,Finance,Hybrid
+5844,Miss Kathleen Williams MD,50,IT,Onsite
+8180,Thomas Booker,59,Operations,Remote
+6782,Julie Davidson,51,IT,Onsite
+5428,Edward Barnes MD,35,Operations,Remote
+2679,Nicole Ramirez,40,IT,Onsite
+1420,Stacey Williams,28,HR,Remote
+3965,Mr. Kevin Owens,40,Operations,Onsite
+7446,Alexa Garcia,23,IT,Remote
+9119,Jessica Foster,50,HR,Onsite
+3632,Kendra Ingram,41,HR,Hybrid
+9976,Kyle Reyes,39,Marketing,Onsite
+3060,Jennifer Lopez,45,Finance,Hybrid
+6069,Andrea Archer,44,Operations,Onsite
+6780,Morgan Rios,54,HR,Onsite
+7335,Joseph Watkins,47,Finance,Hybrid
+5214,Justin Moore,31,Marketing,Onsit
+1137,Shannon Lewis,56,Finance,
+9197,Jason Moore,42,,Hybrid
+3948,Sabrina Miller,39,,Hybrid
+8199,Nancy Lopez,49,HR,Hybrid
+8263,Ryan Johnson,40,Finance,Hybrid
+6840,Edward Hernandez,22,HR,Hybrid
+5974,Margaret Jones,24,Finance,Remote
+7484,Daryl Camacho,24,IT,Remote
+3350,Jeremy Sawyer,32,HR,Remote
+2779,,40,Marketing,Remote
+9057,Vanessa Zuniga,49,Operations,Hybrid
+2906,Stephanie Robinson,38,Operations,Onsite
+7594,Julie Sanchez,59,Finance,Remote
+9284,Stephanie Davis,45,HR,Onsite
+7206,Kayla Chapman,50,,Hybrid
+3480,David Palmer,30,HR,Onsite
+6931,Emily Padilla,28,IT,Hybrid
+9244,Catherine Quinn,44,Marketing,
+8915,George Smith,50,HR,Hybrid
+2175,Amanda Mcbride,29,Finance,Hybrid
+1154,Justin Adkins,37,IT,Hybrid
+5531,Elizabeth Gaines,45,Finance,Onsite
+3127,Sara Thompson,60,IT,
+1912,Michele Ramirez,39,Marketing,Onsite
+5717,Katherine Hall,41,,Onsite
+7738,Victoria Jackson,47,IT,Remote
+6643,Emily Heath,57,IT,Remote
+1985,Christine Hood,42,IT,Remote
+8824,,48,Operations,Remote
+9654,Kenneth Hicks,59,HR,Hybrid
+5850,James Perkins MD,32,Operations,Hybrid
+9352,Victor Carlson,28,IT,
+5046,Melissa Griffin,38,HR,Remote
+2171,Cynthia Reese,31,Operations,Onsite
+3929,Michael Le,25,Marketing,Remote
+6732,Michael Nguyen,49,Operations,Hybrid
+3570,Kyle Barton,44,Finance,Remote
+4294,John Garrett,30,Marketing,Hybrid
+3147,Catherine Hall,40,Marketing,Remote
+7795,Brett Caldwell,34,IT,Remote
+5366,Samuel Clark,33,IT,Remote
+1447,David Neal,54,IT,Hybrid
+7244,Christine Raymond,43,Marketing,Remote
+6048,,22,HR,Remote
+4605,Erik Hansen,23,Finance,Hybrid
+7483,Justin Curry,54,,Remote
+5387,Kathleen Kelley,55,IT,Remote
+1379,Makayla White,58,IT,Hybrid
+3370,Diane Wyatt,28,HR,Onsite
+4146,Robert Lara,35,HR,Onsite
+9588,Matthew Mcdonald,48,Marketing,Onsite
+5985,Bryan Ferguson,45,IT,Onsite
+9087,Mary Odom,34,HR,
+4948,Brian Manning,42,HR,Hybrid
+2040,William Mejia,59,,Onsite
+2763,Shelby Palmer,40,HR,Remote
+7330,John Ashley,59,HR,Hybrid
+1406,Nicholas Long,52,Finance,Remote
+4518,Brian Lawrence,44,Marketing,Onsite
+3352,Melanie Day,51,,Remote
+9961,Autumn Mccarthy,53,Operations,Remote
+4188,Charlene Williams,42,Operations,Hybrid
+4836,Kathleen Kelly,22,IT,Hybrid
+9586,Mrs. Colleen Atkinson DVM,34,Marketing,Remote
+2026,Kathleen Cameron,52,Marketing,Hybrid
+7535,Elizabeth Cervantes,56,Finance,Hybrid
+6846,Catherine Pruitt,50,HR,Hybrid
+6610,Jeffrey Thomas,40,Operations,Onsite
+5348,,26,Finance,Remote
+6919,Sean White MD,46,Finance,Remote
+5109,,45,HR,Remote
+6819,Jenna Burns,50,Finance,Onsite
+6098,Brooke Gonzalez,51,HR,
+4922,,22,Finance,
+9468,Kristin Bryant,37,Marketing,Hybrid
+6120,Shannon Allen,22,Finance,Hybrid
+9272,Joan Foster,56,HR,Remote
+1811,Benjamin Thompson,35,HR,Hybrid
+6773,Andrea Ortiz,23,Finance,Remote
+9855,Nicole Torres,41,HR,Remote
+1513,Marcus Davis,31,Marketing,Hybrid
+6136,Jessica Mejia,30,,Remote
+2718,Rachael Gay,39,IT,Hybrid
+2660,Maria Randolph,31,Marketing,Remote
+3694,Benjamin Maynard,46,Operations,Remote
+2716,Joshua Price,24,HR,Onsit
+3778,Cathy Davis,46,HR,Onsite
+8335,Jason Bell,47,Finance,Remote
+8073,Sarah Brown,43,Finance,
+7851,Henry Singh,39,Operations,Remote
+1578,Kelly Rivera,50,HR,Hybrid
+5703,Garrett Chaney,49,IT,Onsite
+9919,Michael Aguirre,35,Finance,Hybrid
+8534,Daniel Figueroa,40,Finance,Remote
+1653,Rebecca Martinez,60,Finance,Onsite
+2155,Jonathan Edwards,51,IT,Onsite
+9586,Mrs. Colleen Atkinson DVM,34,Marketing,Remote
+6134,Deanna Carr,26,HR,Hybrid
+6098,Brooke Gonzalez,51,HR,Hybrid
+8696,Michelle Lee,59,IT,Remote
+9393,,45,,Onsite
+8453,Nicholas Bauer,48,Operations,Onsit
+7244,Christine Raymond,43,Marketing,Remote
+9586,Mrs. Colleen Atkinson DVM,34,Marketing,Remote
+3927,Bryan Rios,34,Operations,Remote
+1069,Richard Burton,52,Marketing,Remote
+1379,Makayla White,58,IT,Hybrid
+1127,Joy Peterson,34,Operations,Remote
+7264,Michelle Sparks,28,Finance,Hybrid
+3456,Marilyn Chapman,47,Finance,Hybrid
+8629,Andrew Barry,27,HR,Remote
+7483,Justin Curry,54,IT,Remote
+3503,Heather Calderon,35,HR,Hybrid
+3456,Marilyn Chapman,47,Finance,Hybrid
+6472,David Barnes,55,Marketing,Onsite
+1985,Christine Hood,42,IT,Remote
+3929,Michael Le,25,,Remote
+6840,Edward Hernandez,22,HR,
+6884,Jordan Jones,38,Marketing,Hybrid
+5844,Miss Kathleen Williams MD,50,IT,Onsite
+9087,Mary Odom,34,HR,Remote
+4400,Tiffany Doyle,29,Finance,Hybrid
+3941,Daniel Wilson,53,Finance,Onsite
+8335,Jason Bell,47,Finance,Remote
+5422,Tina Gonzalez,25,Finance,Onsite
+2037,Christina Green,27,Operations,Hybrid
+7028,Hannah Young,52,Operations,Onsite
+3929,Michael Le,25,Marketing,Remote
+4810,Kim Palmer,28,Finance,Onsite
+9352,Victor Carlson,28,,
+6840,Edward Hernandez,22,HR,Hybrid
+8938,James Velez,30,HR,Onsite
+9855,Nicole Torres,41,HR,Remote
+4188,Charlene Williams,42,Operations,Hybrid
+3370,Diane Wyatt,28,HR,Onsite
+2734,Joseph Swanson,60,Operations,Onsit
+5102,William Richardson,25,IT,Hybrid
+9654,Kenneth Hicks,59,HR,Hybrid
+5091,Marissa Miller,55,HR,
+9855,Nicole Torres,41,HR,Remote
+3446,Craig Woods,26,Marketing,Hybrid
+9411,Joanna Flores,34,Finance,Onsite
+2482,Brian Reed,28,Finance,Remote
+5452,Caleb Reyes,52,Operations,Remote
+2848,Keith Wolf,27,IT,Hybrid
+9588,Matthew Mcdonald,48,Marketing,Onsite
+3858,Donna Hunt,22,Marketing,Onsite
+1371,Gary Porter,53,HR,Hybrid
+5118,Kristin Faulkner,38,Finance,Onsite
+8151,Jason Jimenez,57,IT,
+9352,Victor Carlson,28,IT,
+9586,Mrs. Colleen Atkinson DVM,34,Marketing,Remote
+7048,John Holmes,43,Marketing,Remote
+2155,Jonathan Edwards,51,IT,Onsite
+3161,Dana Roberts,41,Marketing,Remote
+2037,Christina Green,27,Operations,Hybrid
